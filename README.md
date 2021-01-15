@@ -13,7 +13,7 @@ AIML Repository for AI/ML PGP program through UT-Austin from Great Learning
   * Adaptive Boosting
   * Bagging Classifier
   * Gradient Boosting
-* Feature Engineering
+* Model Tuning and Feature Selection
   * GridSearch and RandomizedSearch CV
   * Pipelining
 * Unsupervised Learning
