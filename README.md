@@ -13,10 +13,13 @@ AIML Repository for AI/ML PGP program through UT-Austin from Great Learning
   * Adaptive Boosting
   * Bagging Classifier
   * Gradient Boosting
-* Model Tuning and Feature Selection
+* Model Tuning and Feature Selection:
   * GridSearch and RandomizedSearch CV
   * Pipelining
-* Unsupervised Learning
+* Unsupervised Learning:
   * KMeans Clustering
   * Hierarchical Clustering (agglomerative)
   * PCA - Principal Component Analysis 
+* Neural Networks:
+  * Artificial Neural Network (ANN)
+  * Convolutional Neural Network (CNN)
