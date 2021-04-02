@@ -23,3 +23,6 @@ AIML Repository for AI/ML PGP program through UT-Austin from Great Learning
 * Neural Networks:
   * Artificial Neural Network (ANN)
   * Convolutional Neural Network (CNN)
+* Natural Language Processing (NLP):
+  * Text Classification
+  * Sentiment Analysis
